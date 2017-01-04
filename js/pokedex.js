@@ -1,6 +1,6 @@
 $(function() {
   // Step 0: Set your assigned pokemon to the "pokemon" variable! I have put in Bulbasaur for an example
-  var pokemon = charmander;
+  var pokemon = Squirtle;
 
   // STEP 1: Uncomment the next line and make sure that the pokemon object prints to the console!
   //   e.g. console.log(pokemon)
